@@ -38,8 +38,7 @@ Formação Acadêmica
 Idiomas
 
     Português: Nativo
-    Inglês: Avançado (B2 First, Cambridge)
-    Espanhol: intermediário
+    Inglês: Proficiente (B2 First, Cambridge)
 
 # Linguagens e ferramentas
 <h3 align="left"></h3>
